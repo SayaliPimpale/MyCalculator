@@ -6,9 +6,6 @@ https://sayalicalculator.netlify.app/
 ## GitHub Repo of Calculator :
 https://github.com/SayaliPimpale/MyCalculator
 
-## github.io link :
-https://github.com/SayaliPimpale/MyCalculator
-
 ## Technologies Used : 
 HTML, CSS and JavaScript.
 
